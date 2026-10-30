@@ -1,0 +1,5 @@
+query,clicks,impressions,position,ctr,scenario_target_ctr,scenario_click_gap,review
+auditoria seo tecnica,30,2500,8.4,0.012,0.05,95.0,"Revisar intención, página asociada y SERP antes de actuar"
+python para seo,10,1800,11.2,0.005556,0.05,80.0,"Revisar intención, página asociada y SERP antes de actuar"
+monitorizar canonical,2,800,9.8,0.0025,0.05,38.0,"Revisar intención, página asociada y SERP antes de actuar"
+consultor geo,45,1600,6.5,0.028125,0.05,35.0,"Revisar intención, página asociada y SERP antes de actuar"
